@@ -1,16 +1,14 @@
-## Hi there 👋
+Bem Vindos ao meu perfil 💙💙
 
-<!--
-**NatalyAlme07/Natalyalme07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nataly de almeida
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![giphy](https://github.com/user-attachments/assets/72b7a19f-5dab-4d57-99b0-944c47107e92)
 
-Here are some ideas to get you started:
+Você Pode Entrar Em Contato comigo Atráves desse email
+@Natalyyalmeida297@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
